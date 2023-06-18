@@ -4,7 +4,7 @@ Flutter-57
 ## Takım Elemanları
 * Betül TUZCU: Scrum Master 
 * Beyza SADIK: Product Owner
-* Görkem AYTUĞ: Developer
+* Görkem ALYAĞUT: Developer
 * Mehmet ERTAN: Aktif Olmayan Üye
 * Ezgi AÇIKGÖZ: Aktif Olmayan Üye (Akademiden Ayrıldı)
 ## Ürün İsmi
