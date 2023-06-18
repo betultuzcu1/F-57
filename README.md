@@ -22,6 +22,7 @@ InventoTrack ile depolarınızı etkin bir şekilde yönetebilir, stok takibiniz
 * Üretim Şirketleri
 # Product Backlog URL
 [Trello Backlog Board](https://trello.com/b/OonGUllx/flutterteam57board)
+<a name="sprint 1"></a>
 # Sprint 1
 * Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır.Trello üzerinden  backlog card'lara tıklandığında hikayelerin detaylarına ulaşabilirisiniz.
 
@@ -44,9 +45,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
   <br/>
 * Ürün Durumu: Ekran görüntüleri:
 * Sprint Review: <br/>
-Alınan kararlar: 
+Alınan kararlar: Sprint sürecinde, kullanıcı ihtiyaçlarının analizi tamamlandı ve beklentiler , gereksinimler belirlendi. Proje tasarımı için temel prensipler belirlendi, kullanıcı arayüzü yapıldı, prototipler oluşturuldu ve proje dosyalarının yapısı oluşturularak Githup üzerinden yönetilmeye başlandı. Bu aşamada, proje yönetimi için temel altyapı hazırlandı ve ilerleme kaydedildi.<br/>
+Sprint Review katılımcıları:Betül Tuzcu,Görkem Alyağut,Beyza Sadık
 
-* Sprint Retrospective:
+* Sprint Retrospective:<br/>
+   * Daily scrumlara daha dikkat edilmesine karar verilmiştir.Daily scrum toplantıları daha sık yapılacak.
+   * Takım üyeleriyle iletişim ve işbirliği güçlendirilecek.
+   * Düzenli geri bildirim alışverişi yapılacak.
+
+  
 
 
 
