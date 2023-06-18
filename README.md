@@ -34,6 +34,14 @@ InventoTrack ile depolarınızı etkin bir şekilde yönetebilir, stok takibiniz
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar user story'leri temsil etmektedir.
 * Daily Scrum: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum bilgileri word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum](https://github.com/betultuzcu1/F-57/blob/main/Sprint1/DailyScrum.docx)
 * Sprint board update: Sprint board screenshotları:
+  ![Backlog -1](https://github.com/betultuzcu1/F-57/blob/main/Sprint1/backlog/backlog-1.png)
+  <br/>
+  ![Backlog-2](https://github.com/betultuzcu1/F-57/blob/main/Sprint1/backlog/backlog-2.png)
+  <br/>
+  ![Backlog-3](https://github.com/betultuzcu1/F-57/blob/main/Sprint1/backlog/backlog-3.png)
+  <br/>
+  ![Backlog-4](https://github.com/betultuzcu1/F-57/blob/main/Sprint1/backlog/backlog-4.png)
+  <br/>
 * Ürün Durumu: Ekran görüntüleri:
 * Sprint Review: <br/>
 Alınan kararlar: 
