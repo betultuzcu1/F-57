@@ -43,7 +43,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
   <br/>
   ![Backlog-4](https://github.com/betultuzcu1/F-57/blob/main/Sprint1/backlog/backlog-4.png)
   <br/>
-* Ürün Durumu: Ekran görüntüleri:
+* Ürün Durumu: Ekran görüntüleri:<br/>
+  ![Arayüz Tasarımı](https://github.com/betultuzcu1/F-57/blob/main/Sprint1/%C3%BCr%C3%BCn/%C3%BCr%C3%BCnfoto.png)
 * Sprint Review: <br/>
 Alınan kararlar: Sprint sürecinde, kullanıcı ihtiyaçlarının analizi tamamlandı ve beklentiler , gereksinimler belirlendi. Proje tasarımı için temel prensipler belirlendi, kullanıcı arayüzü yapıldı, prototipler oluşturuldu ve proje dosyalarının yapısı oluşturularak Githup üzerinden yönetilmeye başlandı. Bu aşamada, proje yönetimi için temel altyapı hazırlandı ve ilerleme kaydedildi.<br/>
 Sprint Review katılımcıları:Betül Tuzcu,Görkem Alyağut,Beyza Sadık
