@@ -21,7 +21,7 @@ InventoTrack ile depolarınızı etkin bir şekilde yönetebilir, stok takibiniz
 * Dağıtım ve Lojistik Şirketleri
 * Üretim Şirketleri
 # Product Backlog URL
-[Trello Backlog Board](https://trello.com/b/OonGUllx/flutterteam57board)
+[Trello Backlog Board](https://trello.com/w/flutter_team_57_board)
 <a name="sprint 1"></a>
 # Sprint 1
 * Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır.Trello üzerinden  backlog card'lara tıklandığında hikayelerin detaylarına ulaşabilirisiniz.
@@ -48,6 +48,47 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
 * Sprint Review: <br/>
 Alınan kararlar: Sprint sürecinde, kullanıcı ihtiyaçlarının analizi tamamlandı ve beklentiler , gereksinimler belirlendi. Proje tasarımı için temel prensipler belirlendi, kullanıcı arayüzü yapıldı, prototipler oluşturuldu ve proje dosyalarının yapısı oluşturularak Githup üzerinden yönetilmeye başlandı. Bu aşamada, proje yönetimi için temel altyapı hazırlandı ve ilerleme kaydedildi.<br/>
 Sprint Review katılımcıları:Betül Tuzcu,Görkem Alyağut,Beyza Sadık
+
+* Sprint Retrospective:<br/>
+   * Daily scrumlara daha dikkat edilmesine karar verilmiştir.Daily scrum toplantıları daha sık yapılacak.
+   * Takım üyeleriyle iletişim ve işbirliği güçlendirilecek.
+   * Düzenli geri bildirim alışverişi yapılacak.
+# Sprint 2
+* Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır.Trello üzerinden  backlog card'lara tıklandığında hikayelerin detaylarına ulaşabilirisiniz.
+
+* Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+* Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint için 50 puan,ikinci sprint için ise 100 puan olarak düşünülmştür.
+
+* Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde seçimler yapılmaktadır.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar user story'leri temsil etmektedir.
+* Daily Scrum: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum bilgileri word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum](https://github.com/betultuzcu1/F-57/blob/main/Sprint2/DailyScrum.docx)
+* Sprint board update: Sprint board screenshotları:
+  ![Backlog -1](https://github.com/betultuzcu1/F-57/blob/main/Sprint2/backlog/backlog-1.png)
+  <br/>
+  ![Backlog-2](https://github.com/betultuzcu1/F-57/blob/main/Sprint2/backlog/backlog-2.png)
+  <br/>
+  ![Backlog-3](https://github.com/betultuzcu1/F-57/blob/main/Sprint2/backlog/backlog-3.png)
+  <br/>
+  ![Backlog-4](https://github.com/betultuzcu1/F-57/blob/main/Sprint2/backlog/backlog-4.png)
+  <br/>
+  ![Backlog-5](https://github.com/betultuzcu1/F-57/blob/main/Sprint2/backlog/backlog-5.png)
+  <br/>
+* Ürün Durumu: Ekran görüntüleri:<br/>
+  ![HomeScreen Tasarımı](https://github.com/betultuzcu1/F-57/blob/main/Sprint2/%C3%BCr%C3%BCn/home.png)
+  <br/>
+  ![Sign in Tasarımı](https://github.com/betultuzcu1/F-57/blob/main/Sprint2/%C3%BCr%C3%BCn/signin.png)
+  <br/>
+  ![Sign Up Tasarımı](https://github.com/betultuzcu1/F-57/blob/main/Sprint2/%C3%BCr%C3%BCn/signup.png)
+  <br/>
+  ![Scan ekran Tasarımı](https://github.com/betultuzcu1/F-57/blob/main/Sprint2/%C3%BCr%C3%BCn/scan.png)
+  <br/>
+  ![Product List Tasarımı](https://github.com/betultuzcu1/F-57/blob/main/Sprint2/%C3%BCr%C3%BCn/product.png)
+  <br/>
+* Sprint Review: <br/>
+Alınan kararlar: Sprint sürecinde, kullanıcı kayıt ve giriş ekranları tasarlandı.Bu ekranlara ek olarak ürünlerin listelendiği ürün menüsü ve kullanıcıların uygulamaya giriş yaptıktan sonra karşılaştıkları ilk ekran olan anasayfa ekranı tasarımı yapıldı.Qr tarama ekranı tasarlandı.<br/>
+Sprint Review katılımcıları:Betül Tuzcu
 
 * Sprint Retrospective:<br/>
    * Daily scrumlara daha dikkat edilmesine karar verilmiştir.Daily scrum toplantıları daha sık yapılacak.
