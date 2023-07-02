@@ -20,6 +20,12 @@ InventoTrack ile depolarınızı etkin bir şekilde yönetebilir, stok takibiniz
 * Perakende Şirketleri
 * Dağıtım ve Lojistik Şirketleri
 * Üretim Şirketleri
+## Ürün Özellikleri
+* Kolay veri girişinin sağlanması
+* Ürünleri kategorilerine göre düzenlenmesi sağlanır
+* Telefonun kamerasını kullanarak barkodları tarayabilirisiniz
+* Stok seviyeleri kontrol altına alınır ve bellirli bir seviye altında uyarı verir
+* Ürün durumuna göre satış raporları oluşturulur
 # Product Backlog URL
 [Trello Backlog Board](https://trello.com/w/flutter_team_57_board)
 <a name="sprint 1"></a>
