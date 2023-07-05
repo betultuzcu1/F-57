@@ -27,7 +27,7 @@ InventoTrack ile depolarınızı etkin bir şekilde yönetebilir, stok takibiniz
 * Stok seviyeleri kontrol altına alınır ve bellirli bir seviye altında uyarı verir
 * Ürün durumuna göre satış raporları oluşturulur
 # Product Backlog URL
-[Trello Backlog Board](https://trello.com/w/flutter_team_57_board)
+[Trello Backlog Board](https://trello.com/b/OonGUllx/sprint1)
 <a name="sprint 1"></a>
 # Sprint 1
 * Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır.Trello üzerinden  backlog card'lara tıklandığında hikayelerin detaylarına ulaşabilirisiniz.
@@ -70,7 +70,9 @@ Sprint Review katılımcıları:Betül Tuzcu,Görkem Alyağut,Beyza Sadık
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar user story'leri temsil etmektedir.
 * Daily Scrum: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum bilgileri word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum](https://github.com/betultuzcu1/F-57/blob/main/Sprint2/DailyScrum.docx)
-* Sprint board update: Sprint board screenshotları:
+* Sprint board update:[Trello Backlog Board](https://trello.com/b/p1JOkc93/sprint2)
+  <br/>
+  Sprint board screenshotları:
   ![Backlog -1](https://github.com/betultuzcu1/F-57/blob/main/Sprint2/backlog/backlog-1.png)
   <br/>
   ![Backlog-2](https://github.com/betultuzcu1/F-57/blob/main/Sprint2/backlog/backlog-2.png)
