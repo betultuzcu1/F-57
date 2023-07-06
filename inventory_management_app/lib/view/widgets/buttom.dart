@@ -25,7 +25,7 @@ class MyButton extends StatelessWidget {
           ],
         ),
         child: Text(
-          'Giriş Yap',
+          'Sign In',
           style: GoogleFonts.montserrat(
             color: HexColor('#f2f2f2'),
             fontSize: 20,
@@ -59,7 +59,7 @@ class SignupButton extends StatelessWidget {
           ],
         ),
         child: Text(
-          'Kayıt Ol',
+          'Sign Up',
           style: GoogleFonts.montserrat(
             color: HexColor('#f2f2f2'),
             fontSize: 20,

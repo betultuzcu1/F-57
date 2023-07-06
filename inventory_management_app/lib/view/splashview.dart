@@ -5,6 +5,7 @@ import 'package:get/get.dart';
 import 'package:hexcolor/hexcolor.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:inventory_management_app/view/loginview.dart';
+import 'package:inventory_management_app/view/signupview.dart';
 
 class SplashView extends StatelessWidget {
   const SplashView({Key? key}) : super(key: key);
@@ -70,10 +71,10 @@ class SplashView extends StatelessWidget {
             Card(
               margin: EdgeInsets.symmetric(horizontal: 40, vertical: 5),
               shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(10), // Köşeleri yuvarlak hale getirir
+                borderRadius: BorderRadius.circular(10),
               ),
               child: InkWell(
-                borderRadius: BorderRadius.circular(10), // InkWell'ın da köşeleri yuvarlak hale getirir
+                borderRadius: BorderRadius.circular(10),
                 onTap: () {
                   Navigator.push(
                     context,
@@ -82,7 +83,7 @@ class SplashView extends StatelessWidget {
                 },
                 child: ListTile(
                   title: Text(
-                    'Giriş Yap',
+                    'Sign In',
                     style: GoogleFonts.montserrat(
                       color: HexColor('#36648b'),
                       fontSize: 20,
@@ -99,19 +100,19 @@ class SplashView extends StatelessWidget {
             Card(
               margin: EdgeInsets.symmetric(horizontal: 40, vertical: 5),
               shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(10), // Köşeleri yuvarlak hale getirir
+                borderRadius: BorderRadius.circular(10),
               ),
               child: InkWell(
-                borderRadius: BorderRadius.circular(10), // InkWell'ın da köşeleri yuvarlak hale getirir
+                borderRadius: BorderRadius.circular(10),
                 onTap: () {
                   Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => LoginView()),
+                    MaterialPageRoute(builder: (context) => SignupView()),
                   );
                 },
                 child: ListTile(
                   title: Text(
-                    'Kayıt Ol',
+                    'Sign Up',
                     style: GoogleFonts.montserrat(
                       color: HexColor('#36648b'),
                       fontSize: 20,

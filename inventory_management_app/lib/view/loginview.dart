@@ -13,12 +13,14 @@ class LoginView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(appBar: AppBar(
-      backgroundColor: HexColor('#4682b4'),
-      title: Text('Back',style: GoogleFonts.montserrat(
-      color: Colors.white
-    ),),
-    ),
+    return Scaffold(
+      appBar: AppBar(
+        backgroundColor: HexColor('#4682b4'),
+        title: Text(
+          'Back',
+          style: GoogleFonts.montserrat(color: Colors.white),
+        ),
+      ),
       backgroundColor: HexColor('#4f94cd'),
       body: SingleChildScrollView(
         child: SafeArea(
@@ -64,7 +66,6 @@ class LoginView extends StatelessWidget {
                   ),
                 ),
                 SizedBox(height: 30),
-
                 TextForm(
                   controller: emailController,
                   text: 'Email',
@@ -81,29 +82,44 @@ class LoginView extends StatelessWidget {
                 SizedBox(height: 20),
                 MyButton(),
                 SizedBox(height: 20),
-                GestureDetector(
-                  onTap: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(builder: (context) => SignupView()),
-                    );
-                  },
-                  child: Text(
-                    "Hesabınız yok mu? Kayıt Ol",
-                    style: GoogleFonts.montserrat(
-                      color: HexColor('#f2f2f2'),
-                      fontSize: 18,
-                    ),
-                  ),
-                ),
-
 
               ],
             ),
           ),
         ),
       ),
+      bottomNavigationBar: Container(
+        height: 50,
+
+        alignment: Alignment.center,
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Text(
+              "Dont't have an account? ",
+              style: GoogleFonts.montserrat(
+
+                fontSize: 18,
+              ),
+            ),
+            InkWell(
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => SignupView()),
+                );
+              },
+              child:  Text(
+                "Sign up ",
+                style: GoogleFonts.montserrat(
+                  color: HexColor('#f2f2f2'),
+                  fontSize: 18,
+                ),
+              ),
+            ),
+          ],
+        ),
+      ),
     );
   }
 }
-

@@ -7,18 +7,22 @@ import 'package:inventory_management_app/view/widgets/buttom.dart';
 import 'package:inventory_management_app/view/widgets/text_form.dart';
 
 class SignupView extends StatelessWidget {
-  SignupView({super.key});
+  SignupView({Key? key}) : super(key: key);
+  final TextEditingController nameController = TextEditingController();
   final TextEditingController emailController = TextEditingController();
   final TextEditingController passwordController = TextEditingController();
+  final TextEditingController confirmPasswordController = TextEditingController();
 
   @override
   Widget build(BuildContext context) {
-     return Scaffold(appBar: AppBar(
-      backgroundColor: HexColor('#4682b4'),
-      title: Text('Back',style: GoogleFonts.montserrat(
-          color: Colors.white
-      ),),
-    ),
+    return Scaffold(
+      appBar: AppBar(
+        backgroundColor: HexColor('#4682b4'),
+        title: Text(
+          'Back',
+          style: GoogleFonts.montserrat(color: Colors.white),
+        ),
+      ),
       backgroundColor: HexColor('#4f94cd'),
       body: SingleChildScrollView(
         child: SafeArea(
@@ -64,12 +68,11 @@ class SignupView extends StatelessWidget {
                   ),
                 ),
                 SizedBox(height: 20),
-
                 TextForm(
-                  controller: emailController,
+                  controller: nameController,
                   text: 'Name',
                   obscure: false,
-                  textInputType: TextInputType.emailAddress,
+                  textInputType: TextInputType.text,
                 ),
                 SizedBox(height: 15),
                 TextForm(
@@ -85,26 +88,16 @@ class SignupView extends StatelessWidget {
                   obscure: true,
                   textInputType: TextInputType.text,
                 ),
+                SizedBox(height: 15),
+                TextForm(
+                  controller: confirmPasswordController,
+                  text: 'Confirm Password',
+                  obscure: true,
+                  textInputType: TextInputType.text,
+                ),
                 SizedBox(height: 20),
                 SignupButton(),
                 SizedBox(height: 20),
-                GestureDetector(
-                  onTap: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(builder: (context) => LoginView()),
-                    );
-                  },
-                  child: Text(
-                    "Hesabınız var mı? Giriş Yap",
-                    style: GoogleFonts.montserrat(
-                      color: HexColor('#f2f2f2'),
-                      fontSize: 18,
-                    ),
-                  ),
-                ),
-
-
               ],
             ),
           ),
@@ -113,3 +106,4 @@ class SignupView extends StatelessWidget {
     );
   }
 }
+
