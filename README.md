@@ -102,6 +102,47 @@ Sprint Review katılımcıları:Betül Tuzcu
    * Daily scrumlara daha dikkat edilmesine karar verilmiştir.Daily scrum toplantıları daha sık yapılacak.
    * Takım üyeleriyle iletişim ve işbirliği güçlendirilecek.
    * Düzenli geri bildirim alışverişi yapılacak.
+  # Sprint 3
+* Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır.Trello üzerinden  backlog card'lara tıklandığında hikayelerin detaylarına ulaşabilirisiniz.
+
+* Sprint içinde tamamlanması tahmin edilen puan: 150 Puan
+
+* Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint için 50 puan,ikinci sprint için  100,3. ve son sprint için ise 150 puan olarak düşünülmüştür.
+
+* Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde seçimler yapılmaktadır.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar user story'leri temsil etmektedir.
+* Daily Scrum: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum bilgileri word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/DailyScrum.docx)
+* Sprint board update:[Trello Backlog Board](https://trello.com/b/fduZ2Fb7/sprint3)
+  <br/>
+  Sprint board screenshotları:
+  ![Backlog -1]()
+  <br/>
+  ![Backlog-2]()
+  <br/>
+  ![Backlog-3]()
+  <br/>
+  ![Backlog-4]()
+  <br/>
+  ![Backlog-5]()
+  <br/>
+* Ürün Durumu: Ekran görüntüleri:<br/>
+  ![Açılış Ekranı Tasarımı]([https://github.com/betultuzcu1/F-57/blob/main/Sprint2/%C3%BCr%C3%BCn/home.png](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/%C3%9Cr%C3%BCn/Screenshot_20230712_140200.png))
+  <br/>
+  ![Ana ekran Tasarımı](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/%C3%9Cr%C3%BCn/Screenshot_20230712_140233.png)
+  <br/>
+  ![Sign in Tasarımı](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/%C3%9Cr%C3%BCn/Screenshot_20230712_140245.png)
+  <br/>
+  ![Sign Up Tasarımı](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/%C3%9Cr%C3%BCn/Screenshot_20230712_140256.png)
+  <br/>
+* Sprint Review: <br/>
+Alınan kararlar: Sprint sürecinde, daha önceki sprintlerde tasarımı yapılan ekranların kodları yazıldı.<br/>
+Sprint Review katılımcıları:Betül Tuzcu
+
+* Sprint Retrospective:<br/>
+   * Daily scrumlara daha dikkat edilmesine karar verilmiştir.Daily scrum toplantıları daha sık yapılacak.
+   * Takım üyeleriyle iletişim ve işbirliği güçlendirilecek.
+   * Düzenli geri bildirim alışverişi yapılacak.
 
   
 
