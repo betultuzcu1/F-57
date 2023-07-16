@@ -127,7 +127,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
   ![Backlog-5]()
   <br/>
 * Ürün Durumu: Ekran görüntüleri:<br/>
-  ![Açılış Ekranı Tasarımı]([https://github.com/betultuzcu1/F-57/blob/main/Sprint2/%C3%BCr%C3%BCn/home.png](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/%C3%9Cr%C3%BCn/Screenshot_20230712_140200.png))
+  ![Açılış Ekranı Tasarımı](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/%C3%9Cr%C3%BCn/Screenshot_20230712_140200.png)
   <br/>
   ![Ana ekran Tasarımı](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/%C3%9Cr%C3%BCn/Screenshot_20230712_140233.png)
   <br/>
