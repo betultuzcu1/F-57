@@ -116,15 +116,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
 * Sprint board update:[Trello Backlog Board](https://trello.com/b/fduZ2Fb7/sprint3)
   <br/>
   Sprint board screenshotları:
-  ![Backlog -1]()
+  ![Backlog -1](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/backlog/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(194).png)
   <br/>
-  ![Backlog-2]()
+  ![Backlog-2](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/backlog/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(195).png)
   <br/>
-  ![Backlog-3]()
+  ![Backlog-3](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/backlog/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(196).png)
   <br/>
-  ![Backlog-4]()
-  <br/>
-  ![Backlog-5]()
+  ![Backlog-4](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/backlog/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(197).png)
   <br/>
 * Ürün Durumu: Ekran görüntüleri:<br/>
   ![Açılış Ekranı Tasarımı](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/%C3%9Cr%C3%BCn/Screenshot_20230712_140200.png)
@@ -136,13 +134,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
   ![Sign Up Tasarımı](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/%C3%9Cr%C3%BCn/Screenshot_20230712_140256.png)
   <br/>
 * Sprint Review: <br/>
-Alınan kararlar: Sprint sürecinde, daha önceki sprintlerde tasarımı yapılan ekranların kodları yazıldı.<br/>
-Sprint Review katılımcıları:Betül Tuzcu
+  * Alınan kararlar: Sprint sürecinde, daha önceki sprintlerde tasarımı yapılan ekranların kodları yazıldı.
+  * Tasarımda ön görülemeyen hatalar kod tarafında çözüldü.<br/>
+
 
 * Sprint Retrospective:<br/>
-   * Daily scrumlara daha dikkat edilmesine karar verilmiştir.Daily scrum toplantıları daha sık yapılacak.
-   * Takım üyeleriyle iletişim ve işbirliği güçlendirilecek.
-   * Düzenli geri bildirim alışverişi yapılacak.
+   * Tüm sprintleri başarıyla tamamladık ve bu süreçte birçok özelliği uygulamaya ekledik. Birlikte harcadığımız çabanın ve işbirliğimizin sonucunda bir proje oluşturduk.Tüm ekibin katkılarından ve çabalarından dolayı her birinize teşekkür ediyorum.
 
   
 
