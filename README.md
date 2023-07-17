@@ -134,13 +134,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
   ![Sign Up Tasarımı](https://github.com/betultuzcu1/F-57/blob/main/Sprint3/%C3%9Cr%C3%BCn/Screenshot_20230712_140256.png)
   <br/>
 * Sprint Review: <br/>
-Alınan kararlar: Sprint sürecinde, daha önceki sprintlerde tasarımı yapılan ekranların kodları yazıldı.<br/>
-Sprint Review katılımcıları:Betül Tuzcu
+  * Alınan kararlar: Sprint sürecinde, daha önceki sprintlerde tasarımı yapılan ekranların kodları yazıldı.
+  * Tasarımda ön görülemeyen hatalar kod tarafında çözüldü.<br/>
+
 
 * Sprint Retrospective:<br/>
-   * Daily scrumlara daha dikkat edilmesine karar verilmiştir.Daily scrum toplantıları daha sık yapılacak.
-   * Takım üyeleriyle iletişim ve işbirliği güçlendirilecek.
-   * Düzenli geri bildirim alışverişi yapılacak.
+   * Tüm sprintleri başarıyla tamamladık ve bu süreçte birçok özelliği uygulamaya ekledik. Birlikte harcadığımız çabanın ve işbirliğimizin sonucunda bir proje oluşturduk.Tüm ekibin katkılarından ve çabalarından dolayı her birinize teşekkür ediyorum.
 
   
 
