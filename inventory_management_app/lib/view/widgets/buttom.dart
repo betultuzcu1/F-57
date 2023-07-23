@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:hexcolor/hexcolor.dart';
+import 'package:inventory_management_app/view/homeview.dart';
 
 class MyButton extends StatelessWidget {
   const MyButton({super.key});
@@ -9,7 +10,10 @@ class MyButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return InkWell(
       onTap: () {
-        print('Login');
+        Navigator.push(
+          context,
+          MaterialPageRoute(builder: (context) => WarehouseHomeScreen()),
+        );
       },
       child: Container(
         alignment: Alignment.center,
@@ -31,11 +35,11 @@ class MyButton extends StatelessWidget {
             fontSize: 20,
           ),
         ),
-
       ),
     );
   }
 }
+
 class SignupButton extends StatelessWidget {
   const SignupButton({super.key});
 
@@ -65,7 +69,6 @@ class SignupButton extends StatelessWidget {
             fontSize: 20,
           ),
         ),
-
       ),
     );
   }

@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:hexcolor/hexcolor.dart';
-import 'package:inventory_management_app/view/loginview.dart';
-import 'package:inventory_management_app/view/splashview.dart';
 import 'package:inventory_management_app/view/widgets/buttom.dart';
 import 'package:inventory_management_app/view/widgets/text_form.dart';
 
@@ -11,7 +9,8 @@ class SignupView extends StatelessWidget {
   final TextEditingController nameController = TextEditingController();
   final TextEditingController emailController = TextEditingController();
   final TextEditingController passwordController = TextEditingController();
-  final TextEditingController confirmPasswordController = TextEditingController();
+  final TextEditingController confirmPasswordController =
+      TextEditingController();
 
   @override
   Widget build(BuildContext context) {
@@ -106,4 +105,3 @@ class SignupView extends StatelessWidget {
     );
   }
 }
-
